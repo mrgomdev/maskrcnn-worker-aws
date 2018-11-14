@@ -13,3 +13,6 @@ AWS_PROFILE=[aws_credential_profile_name] A_BUCKET=[bucket_name_for_images] A_QU
 - [ ] Use tempfile
 - [ ] Process on batch
 - [ ] Tight sized output
+
+## Reference
+Model and inference part from [https://github.com/matterport/Mask_RCNN]
